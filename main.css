@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Mansalva|Open+Sans&display=swap');
+
+/* Google Fonts
+    font-family: 'Mansalva', cursive;
+    font-family: 'Open Sans', sans-serif;
+   End Google Fonts*/
+
+.big {
+    font-size: 4em;
+}
+
+.mans {
+    font-family: 'Mansalva', cursive;
+}
+
+.open {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-family: 'Mansalva', cursive;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
